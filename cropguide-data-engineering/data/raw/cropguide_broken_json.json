@@ -1,0 +1,9 @@
+[
+    {
+        "farmer_id": 1001,
+        "name": "Amina Yusuf",
+        "country": "Nigeria",
+        "crop": Tomato,
+        "farm_size_hectares": 2.5
+    }
+]

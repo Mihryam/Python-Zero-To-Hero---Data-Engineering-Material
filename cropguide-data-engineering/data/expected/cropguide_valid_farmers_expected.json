@@ -1,0 +1,16 @@
+[
+    {
+        "farmer_id": 1001,
+        "name": "Amina Yusuf",
+        "country": "Nigeria",
+        "crop": "Tomato",
+        "farm_size_hectares": 2.5
+    },
+    {
+        "farmer_id": 1002,
+        "name": "Kojo Mensah",
+        "country": "Ghana",
+        "crop": "Maize",
+        "farm_size_hectares": 4.0
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "farmer_id": 1001,
+        "name": "Amina Yusuf",
+        "country": "Nigeria",
+        "crop": "Tomato",
+        "farm_size_hectares": 2.5
+    },
+    {
+        "farmer_id": 1002,
+        "name": "Kojo Mensah",
+        "country": "Ghana",
+        "crop": "Maize",
+        "farm_size_hectares": 4.0
+    },
+    {
+        "farmer_id": 1003,
+        "name": "Njeri Kamau",
+        "country": "Kenya",
+        "farm_size_hectares": 1.8
+    },
+    {
+        "farmer_id": 1004,
+        "name": "Chinedu Okafor",
+        "crop": "Cassava",
+        "farm_size_hectares": 6.2
+    },
+    {
+        "farmer_id": 1005,
+        "country": "Nigeria",
+        "crop": "Rice",
+        "farm_size_hectares": 3.1
+    }
+]
