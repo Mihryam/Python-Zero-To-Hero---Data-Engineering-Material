@@ -1,0 +1,13 @@
+crop_id,crop_name,category,growing_season_days,water_need
+1,Tomato,Vegetable,90,High
+2,Cherry Tomato,Vegetable,85,High
+3,Maize,Cereal,120,Medium
+4,Rice,Cereal,140,High
+5,Cassava,Root,300,Low
+6,Beans,Legume,90,Medium
+7,Yam,Root,240,Medium
+8,Pepper,Vegetable,100,Medium
+9,Cocoa,Cash Crop,365,High
+10,Coffee,Cash Crop,330,Medium
+11,Groundnut,Legume,110,Low
+12,Sorghum,Cereal,115,Low

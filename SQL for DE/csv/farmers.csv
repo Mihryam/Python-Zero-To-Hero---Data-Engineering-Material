@@ -1,0 +1,301 @@
+farmer_id,name,country,state,crop,farm_size_hectares,has_irrigation,registration_date
+1,Amina Adeyemi,Nigeria,Kano,Rice,8.2,0,2023-06-28
+2,Yaa Okafor,Kenya,Kisumu,Tomato,3.73,1,2023-02-24
+3,Ibrahim Obi,Kenya,Kiambu,Yam,8.11,0,2023-01-14
+4,David Eze,Nigeria,Rivers,Beans,10.09,1,2024-11-20
+5,Chinedu Adebayo,Nigeria,Kano,Cherry Tomato,12.88,1,2024-06-25
+6,Esther Abdullahi,Nigeria,Kaduna,Cocoa,4.81,0,2023-06-11
+7,Blessing Afolabi,Kenya,Kiambu,Beans,20.42,0,2023-04-04
+8,Emeka Ndlovu,Nigeria,Benue,Cherry Tomato,30.01,0,2025-02-17
+9,Njeri Mwangi,Nigeria,Oyo,Maize,13.27,1,2024-06-30
+10,Samuel Ibrahim,Nigeria,Kano,Cocoa,25.65,1,2025-02-16
+11,Ruth Obi,Nigeria,Oyo,Rice,24.12,0,2023-04-25
+12,Bola Okafor,Nigeria,Benue,Beans,14.34,1,2024-10-06
+13,Mary Owusu,Nigeria,Benue,Yam,31.02,0,2023-10-20
+14,Musa Osei,Nigeria,Oyo,Sorghum,19.87,1,2025-05-27
+15,Ama Mwangi,Kenya,Kisumu,Rice,34.91,1,2025-10-07
+16,Emeka Okafor,Nigeria,Kano,Cherry Tomato,5.77,1,2025-05-14
+17,Chinedu Adebayo,Kenya,Kisumu,Yam,21.06,1,2024-05-29
+18,Kemi Yusuf,Kenya,Kiambu,Groundnut,25.36,0,2026-01-04
+19,Emeka Boateng,Nigeria,Oyo,Cherry Tomato,10.63,1,2023-01-07
+20,Wanjiku Ibrahim,Nigeria,Oyo,Cocoa,31.99,0,2024-09-03
+21,Samuel Wanjiku,Kenya,Kiambu,Maize,13.4,1,2025-12-22
+22,Samuel Boateng,Nigeria,Kaduna,Pepper,1.17,0,2024-09-21
+23,Ngozi Osei,Nigeria,Benue,Coffee,33.17,1,2025-09-22
+24,Emeka Obi,Nigeria,Kano,Maize,4.93,1,2023-12-05
+25,Wanjiku Afolabi,Nigeria,Oyo,Yam,33.77,0,2024-02-16
+26,Ama Mwangi,Nigeria,Oyo,Pepper,31.54,1,2024-05-22
+27,Chinedu Boateng,Nigeria,Benue,Tomato,20.8,1,2024-03-27
+28,Chinedu Okafor,Nigeria,Kaduna,Rice,2.83,1,2024-11-07
+29,Wanjiku Osei,Nigeria,Kano,Cassava,23.58,1,2023-09-28
+30,Achieng Owusu,Kenya,Kisumu,Rice,27.57,0,2024-01-25
+31,Fatima Eze,Nigeria,Kano,Beans,15.11,1,2023-04-21
+32,Ngozi Adebayo,Nigeria,Kano,Sorghum,12.21,0,2024-05-24
+33,Ibrahim Obi,Nigeria,Benue,Pepper,5.34,1,2025-08-05
+34,Kemi Mensah,Nigeria,Benue,Pepper,28.38,0,2023-07-20
+35,Mary Obi,Nigeria,Kaduna,Tomato,33.93,0,2024-04-29
+36,Yaa Owusu,Nigeria,Rivers,Pepper,7.87,1,2023-05-01
+37,Ama Yusuf,Nigeria,Rivers,Yam,9.65,0,2025-07-20
+38,Yaa Obi,Nigeria,Oyo,Groundnut,25.29,1,2024-08-30
+39,Ngozi Danladi,Nigeria,Benue,Sorghum,19.21,0,2023-04-28
+40,Achieng Owusu,Nigeria,Kaduna,Cocoa,32.22,0,2023-04-27
+41,Chinedu Ibrahim,Kenya,Kiambu,Cherry Tomato,21.03,0,2024-04-26
+42,Fatima Danladi,Ghana,Greater Accra,Rice,20.47,1,2023-06-17
+43,Joseph Danladi,Ghana,Greater Accra,Coffee,18.54,0,2024-02-23
+44,Grace Adeyemi,Ghana,Ashanti,Yam,5.02,0,2025-07-25
+45,Ruth Mensah,Ghana,Ashanti,Tomato,16.31,0,2023-07-24
+46,Otieno Wanjiku,Nigeria,Kano,Cocoa,9.65,0,2023-05-21
+47,Kwame Ndlovu,Nigeria,Benue,Maize,15.62,0,2024-09-11
+48,Halima Kariuki,Kenya,Kisumu,Tomato,23.54,0,2023-08-01
+49,Tunde Bello,Nigeria,Rivers,Cherry Tomato,26.11,1,2024-07-31
+50,Ibrahim Boateng,Kenya,Kisumu,Rice,24.22,0,2025-11-01
+51,Tunde Okafor,Kenya,Nakuru,Cherry Tomato,22.38,0,2023-04-01
+52,Kojo Kamau,Nigeria,Kaduna,Groundnut,34.3,1,2025-06-23
+53,David Eze,Kenya,Kiambu,Cocoa,0.83,1,2023-11-02
+54,Ngozi Mwangi,Kenya,Kiambu,Coffee,19.56,1,2023-03-27
+55,Kwame Okafor,Nigeria,Oyo,Beans,7.75,1,2023-07-30
+56,Emeka Obi,Ghana,Ashanti,Yam,34.1,0,2024-04-29
+57,Halima Ibrahim,Nigeria,Rivers,Yam,1.36,0,2024-11-11
+58,Halima Osei,Ghana,Greater Accra,Cassava,5.99,0,2025-02-22
+59,Kemi Owusu,Nigeria,Kaduna,Rice,7.39,0,2024-12-17
+60,Bola Osei,Nigeria,Oyo,Rice,1.32,1,2024-11-03
+61,Kemi Mensah,Nigeria,Oyo,Cassava,12.61,0,2026-01-03
+62,Amina Bello,Ghana,Ashanti,Cassava,6.66,0,2024-06-27
+63,Fatima Afolabi,Nigeria,Kaduna,Yam,12.43,0,2025-06-12
+64,Wanjiku Bello,Kenya,Kisumu,Yam,31.53,1,2023-04-01
+65,Amina Kariuki,Ghana,Greater Accra,Cocoa,24.2,0,2024-02-08
+66,Yaa Mensah,Ghana,Ashanti,Groundnut,32.27,0,2023-09-13
+67,Wanjiku Ndlovu,Nigeria,Oyo,Groundnut,14.59,1,2024-08-28
+68,Musa Wanjiku,Kenya,Kiambu,Yam,23.44,1,2023-12-23
+69,Achieng Ndlovu,Kenya,Kisumu,Yam,19.4,1,2024-08-10
+70,Yaa Danladi,Nigeria,Benue,Coffee,23.09,1,2025-06-24
+71,Wanjiku Owusu,Nigeria,Benue,Sorghum,6.35,1,2025-11-21
+72,Kojo Mensah,Kenya,Kisumu,Rice,23.71,1,2024-02-12
+73,Amina Okafor,Nigeria,Rivers,Rice,34.45,0,2023-05-30
+74,Yaa Danladi,Kenya,Nakuru,Rice,25.28,1,2025-03-29
+75,Musa Yusuf,Nigeria,Benue,Cherry Tomato,27.36,1,2025-11-26
+76,Ngozi Obi,Kenya,Nakuru,Rice,32.15,1,2023-10-01
+77,Joseph Kariuki,Kenya,Nakuru,Cocoa,21.04,0,2025-06-25
+78,Bola Kariuki,Kenya,Kisumu,Yam,29.15,0,2023-11-22
+79,Njeri Adeyemi,Kenya,Nakuru,Rice,29.48,1,2025-12-03
+80,Mary Osei,Kenya,Nakuru,Cassava,15.68,0,2024-04-25
+81,Kojo Boateng,Nigeria,Oyo,Cocoa,3.28,1,2025-02-23
+82,David Wanjiku,Nigeria,Rivers,Cherry Tomato,14.81,1,2025-08-12
+83,Ngozi Wanjiku,Ghana,Greater Accra,Yam,13.94,0,2023-02-10
+84,Ama Owusu,Kenya,Kisumu,Tomato,33.02,1,2025-03-09
+85,Otieno Obi,Ghana,Greater Accra,Coffee,31.47,1,2024-07-12
+86,Kamau Yusuf,Ghana,Greater Accra,Yam,12.1,0,2025-04-08
+87,Bola Abdullahi,Nigeria,Rivers,Maize,34.33,0,2025-03-17
+88,Achieng Yusuf,Kenya,Kisumu,Cherry Tomato,22.67,1,2025-08-03
+89,Ngozi Adeyemi,Nigeria,Rivers,Yam,11.79,1,2024-11-22
+90,Tunde Eze,Ghana,Greater Accra,Cassava,29.3,1,2023-04-17
+91,Grace Mensah,Ghana,Ashanti,Groundnut,1.89,1,2024-05-21
+92,Bola Yusuf,Nigeria,Benue,Coffee,5.76,1,2023-08-23
+93,Ibrahim Abdullahi,Kenya,Kisumu,Sorghum,9.34,1,2023-08-23
+94,Blessing Bello,Nigeria,Rivers,Coffee,1.39,1,2025-02-07
+95,David Wanjiku,Ghana,Greater Accra,Cherry Tomato,20.93,0,2024-05-12
+96,David Ndlovu,Nigeria,Kano,Groundnut,21.21,1,2023-03-26
+97,Otieno Eze,Ghana,Ashanti,Groundnut,13.28,0,2024-11-29
+98,Kemi Eze,Nigeria,Kaduna,Pepper,4.14,0,2025-07-30
+99,Yaa Ibrahim,Nigeria,Rivers,Sorghum,18.5,0,2025-09-17
+100,Yaa Danladi,Kenya,Nakuru,Cassava,11.62,1,2023-06-27
+101,Abdul Abdullahi,Nigeria,Oyo,Rice,26.39,0,2025-02-15
+102,Amina Owusu,Ghana,Ashanti,Beans,6.77,1,2024-06-13
+103,Tunde Afolabi,Ghana,Ashanti,Sorghum,30.86,0,2025-11-24
+104,Chinedu Osei,Nigeria,Benue,Sorghum,14.52,0,2024-05-07
+105,Mary Owusu,Kenya,Nakuru,Pepper,27.86,1,2024-03-29
+106,David Osei,Ghana,Greater Accra,Cassava,23.41,1,2025-12-23
+107,Yaa Obi,Ghana,Ashanti,Beans,12.64,1,2024-09-19
+108,Grace Bello,Nigeria,Oyo,Sorghum,7.14,1,2026-01-02
+109,Ibrahim Wanjiku,Nigeria,Rivers,Sorghum,17.2,0,2025-12-10
+110,Blessing Bello,Kenya,Kisumu,Rice,10.72,1,2024-09-11
+111,David Obi,Nigeria,Kaduna,Maize,9.96,0,2024-08-21
+112,Mary Owusu,Nigeria,Rivers,Cherry Tomato,30.61,0,2025-08-19
+113,Njeri Boateng,Kenya,Nakuru,Maize,33.81,1,2025-09-05
+114,Bola Mensah,Nigeria,Kano,Yam,17.47,0,2023-04-20
+115,Musa Danladi,Nigeria,Rivers,Cassava,3.44,1,2025-05-02
+116,Samuel Afolabi,Kenya,Kisumu,Rice,27.26,1,2025-06-25
+117,Kemi Danladi,Nigeria,Oyo,Yam,11.04,0,2023-07-23
+118,Mary Wanjiku,Nigeria,Benue,Cassava,23.28,1,2023-12-22
+119,Chinedu Ibrahim,Kenya,Kiambu,Tomato,14.59,0,2025-08-20
+120,Ngozi Osei,Nigeria,Oyo,Cassava,24.89,0,2025-07-18
+121,Joseph Osei,Nigeria,Kano,Cassava,27.68,0,2024-02-10
+122,Fatima Obi,Ghana,Greater Accra,Rice,22.84,0,2023-10-19
+123,Ngozi Ibrahim,Nigeria,Kano,Cassava,21.03,0,2024-08-14
+124,Fatima Abdullahi,Kenya,Nakuru,Sorghum,10.99,1,2024-07-11
+125,Otieno Owusu,Kenya,Kiambu,Pepper,3.28,1,2025-06-03
+126,Samuel Adeyemi,Ghana,Ashanti,Tomato,3.65,0,2023-02-12
+127,Achieng Okafor,Nigeria,Oyo,Maize,16.73,0,2024-07-23
+128,Achieng Eze,Nigeria,Rivers,Groundnut,28.59,0,2025-08-20
+129,Yaa Boateng,Ghana,Ashanti,Beans,23.62,0,2024-11-06
+130,David Owusu,Ghana,Greater Accra,Cassava,23.36,1,2023-03-17
+131,Chinedu Boateng,Kenya,Nakuru,Cassava,11.65,0,2025-04-07
+132,Bola Yusuf,Kenya,Kiambu,Groundnut,30.49,1,2023-04-22
+133,Wanjiku Mwangi,Nigeria,Benue,Coffee,26.6,0,2023-04-16
+134,Tunde Obi,Nigeria,Benue,Maize,32.5,1,2025-09-19
+135,Amina Afolabi,Nigeria,Kano,Rice,24.99,1,2023-01-29
+136,Yaa Mensah,Kenya,Kiambu,Rice,34.73,0,2025-08-03
+137,Mary Kamau,Nigeria,Kano,Pepper,32.68,1,2024-07-13
+138,Bola Owusu,Ghana,Greater Accra,Pepper,8.91,0,2025-02-24
+139,Ruth Afolabi,Nigeria,Benue,Cocoa,26.25,1,2023-05-23
+140,Emeka Eze,Nigeria,Oyo,Beans,32.73,0,2023-01-06
+141,Esther Ndlovu,Nigeria,Oyo,Coffee,20.51,0,2023-11-01
+142,Otieno Owusu,Kenya,Nakuru,Beans,11.97,0,2025-02-11
+143,Ruth Boateng,Kenya,Nakuru,Rice,34.34,1,2025-02-23
+144,Kemi Eze,Nigeria,Benue,Tomato,11.48,1,2025-02-19
+145,Joseph Kamau,Ghana,Greater Accra,Pepper,33.79,1,2024-11-10
+146,Kemi Abdullahi,Nigeria,Kano,Cherry Tomato,18.65,1,2023-10-23
+147,Kemi Kamau,Ghana,Greater Accra,Cherry Tomato,16.7,0,2024-11-24
+148,David Adebayo,Kenya,Kisumu,Groundnut,3.27,1,2025-12-28
+149,Kojo Owusu,Ghana,Greater Accra,Cocoa,1.74,1,2024-08-11
+150,Esther Mensah,Nigeria,Benue,Yam,34.25,0,2023-07-25
+151,Adaeze Ndlovu,Kenya,Nakuru,Tomato,2.09,0,2024-08-23
+152,Kwame Eze,Ghana,Ashanti,Maize,8.92,1,2024-01-04
+153,Adaeze Mensah,Nigeria,Rivers,Coffee,30.54,0,2024-05-08
+154,Ruth Danladi,Kenya,Nakuru,Maize,8.51,0,2025-07-30
+155,Joseph Yusuf,Nigeria,Oyo,Pepper,31.59,0,2023-11-20
+156,Njeri Mwangi,Nigeria,Kano,Coffee,10.82,0,2024-05-27
+157,Kemi Ndlovu,Kenya,Nakuru,Rice,34.98,0,2023-08-07
+158,Ama Danladi,Nigeria,Benue,Beans,20.33,0,2024-08-27
+159,Bola Adebayo,Nigeria,Kaduna,Cassava,0.78,0,2023-04-11
+160,Esther Owusu,Kenya,Kisumu,Cassava,27.26,1,2024-12-22
+161,Mary Wanjiku,Nigeria,Benue,Coffee,9.15,0,2023-10-08
+162,Abdul Okafor,Nigeria,Kano,Cassava,27.71,1,2025-01-17
+163,Chinedu Ndlovu,Nigeria,Rivers,Beans,26.29,1,2023-09-28
+164,Abdul Mwangi,Kenya,Kiambu,Cocoa,17.81,1,2023-12-03
+165,Ruth Owusu,Nigeria,Oyo,Cassava,26.26,1,2023-08-24
+166,Chinedu Kamau,Kenya,Nakuru,Rice,30.17,0,2025-03-24
+167,Kwame Mensah,Kenya,Kiambu,Yam,0.98,0,2025-07-20
+168,Joseph Adeyemi,Ghana,Ashanti,Coffee,13.65,0,2025-01-30
+169,Joseph Osei,Nigeria,Kano,Pepper,1.36,0,2024-11-02
+170,Grace Mensah,Kenya,Kisumu,Groundnut,28.92,0,2024-09-10
+171,Fatima Kamau,Ghana,Greater Accra,Tomato,33.15,1,2025-10-05
+172,Fatima Osei,Nigeria,Kano,Cocoa,5.18,1,2025-05-08
+173,Esther Kamau,Kenya,Kisumu,Yam,23.09,0,2025-04-15
+174,Ngozi Mwangi,Nigeria,Oyo,Rice,15.8,0,2025-01-12
+175,Joseph Mwangi,Nigeria,Kano,Cocoa,31.61,0,2023-05-05
+176,Tunde Wanjiku,Ghana,Greater Accra,Cherry Tomato,33.24,0,2023-07-07
+177,Mary Afolabi,Nigeria,Benue,Tomato,2.24,1,2023-09-15
+178,Ibrahim Mensah,Kenya,Kisumu,Cocoa,7.65,1,2024-04-22
+179,Emeka Kamau,Ghana,Ashanti,Coffee,0.6,0,2023-10-24
+180,Otieno Adeyemi,Nigeria,Rivers,Maize,4.29,0,2023-09-27
+181,Kwame Osei,Nigeria,Kaduna,Coffee,11.67,1,2023-04-18
+182,Esther Eze,Nigeria,Rivers,Cocoa,4.42,1,2025-07-07
+183,Wanjiku Danladi,Ghana,Ashanti,Cherry Tomato,16.09,1,2023-03-30
+184,Blessing Abdullahi,Kenya,Kiambu,Groundnut,33.76,1,2025-09-07
+185,Yaa Bello,Ghana,Greater Accra,Pepper,25.08,1,2023-06-15
+186,Samuel Kamau,Ghana,Ashanti,Cherry Tomato,4.85,0,2024-10-27
+187,Samuel Kariuki,Ghana,Greater Accra,Cassava,16.15,0,2023-07-23
+188,Kemi Obi,Nigeria,Kano,Sorghum,30.36,1,2024-04-12
+189,Kojo Abdullahi,Ghana,Greater Accra,Yam,14.85,1,2025-05-24
+190,Joseph Adeyemi,Ghana,Ashanti,Beans,33.4,0,2025-08-29
+191,Chinedu Mensah,Nigeria,Kano,Cherry Tomato,15.4,0,2025-02-02
+192,Otieno Okafor,Nigeria,Rivers,Coffee,33.5,0,2023-09-08
+193,Kwame Eze,Ghana,Greater Accra,Sorghum,2.27,1,2024-10-01
+194,Fatima Danladi,Ghana,Ashanti,Cocoa,7.84,0,2024-04-04
+195,Kwame Obi,Nigeria,Kano,Beans,4.46,1,2024-04-08
+196,Kemi Obi,Ghana,Greater Accra,Coffee,21.67,0,2023-02-23
+197,Ruth Adeyemi,Kenya,Kisumu,Tomato,6.72,0,2024-09-24
+198,Kwame Yusuf,Ghana,Ashanti,Maize,30.51,0,2025-03-31
+199,Musa Yusuf,Nigeria,Kano,Cherry Tomato,26.24,1,2025-05-09
+200,Kojo Ibrahim,Kenya,Nakuru,Beans,11.25,1,2023-06-23
+201,Musa Ibrahim,Nigeria,Kaduna,Coffee,2.22,1,2025-06-26
+202,Kamau Afolabi,Ghana,Greater Accra,Pepper,14.79,1,2025-11-15
+203,Kwame Eze,Nigeria,Kano,Cherry Tomato,10.27,0,2025-09-23
+204,Joseph Ndlovu,Kenya,Kiambu,Tomato,8.11,0,2023-04-23
+205,Ibrahim Ndlovu,Nigeria,Kaduna,Rice,26.97,0,2024-08-15
+206,Fatima Yusuf,Ghana,Ashanti,Pepper,26.27,1,2025-02-17
+207,David Osei,Kenya,Kiambu,Cocoa,19.78,0,2024-12-26
+208,Ama Okafor,Nigeria,Kano,Yam,1.15,0,2024-10-03
+209,Yaa Danladi,Kenya,Kisumu,Yam,24.98,1,2023-08-24
+210,Amina Boateng,Ghana,Greater Accra,Maize,28.15,0,2025-01-11
+211,Yaa Bello,Nigeria,Kano,Rice,15.53,1,2023-06-11
+212,Kemi Ndlovu,Ghana,Greater Accra,Sorghum,12.21,1,2023-12-11
+213,Wanjiku Bello,Nigeria,Kano,Cocoa,18.09,0,2024-12-16
+214,Esther Kamau,Ghana,Ashanti,Rice,4.05,1,2023-12-22
+215,Musa Mensah,Kenya,Kisumu,Maize,33.32,0,2025-08-08
+216,Emeka Danladi,Kenya,Kisumu,Pepper,24.0,0,2024-10-23
+217,Musa Abdullahi,Ghana,Ashanti,Cherry Tomato,16.68,0,2024-07-16
+218,Ngozi Mwangi,Kenya,Kisumu,Cocoa,3.06,1,2023-03-19
+219,Kwame Ndlovu,Nigeria,Kaduna,Cherry Tomato,22.74,0,2023-07-04
+220,Samuel Kariuki,Kenya,Kisumu,Yam,16.46,0,2023-03-26
+221,Ruth Danladi,Kenya,Nakuru,Groundnut,6.99,0,2025-10-23
+222,Ngozi Abdullahi,Nigeria,Rivers,Cherry Tomato,28.48,0,2023-06-22
+223,Mary Ibrahim,Kenya,Kiambu,Tomato,9.05,1,2025-06-18
+224,Wanjiku Afolabi,Kenya,Kiambu,Maize,13.05,0,2025-03-04
+225,Emeka Boateng,Ghana,Greater Accra,Groundnut,21.13,0,2024-11-16
+226,Kojo Bello,Nigeria,Kano,Cocoa,23.9,1,2023-11-04
+227,Chinedu Danladi,Ghana,Ashanti,Groundnut,5.38,1,2025-03-13
+228,Samuel Mensah,Nigeria,Rivers,Cassava,19.78,0,2024-11-03
+229,Joseph Kariuki,Nigeria,Rivers,Cherry Tomato,22.79,1,2025-01-11
+230,Kwame Ndlovu,Nigeria,Kaduna,Maize,33.32,1,2025-09-22
+231,Grace Kamau,Nigeria,Benue,Maize,3.16,0,2023-07-27
+232,Emeka Obi,Kenya,Kiambu,Sorghum,30.99,1,2024-11-20
+233,Musa Afolabi,Kenya,Kisumu,Yam,5.82,1,2023-12-06
+234,Ngozi Eze,Kenya,Nakuru,Beans,23.83,1,2025-06-28
+235,Blessing Abdullahi,Kenya,Kisumu,Rice,18.92,1,2025-08-18
+236,Kwame Danladi,Nigeria,Benue,Pepper,16.43,1,2025-02-21
+237,Wanjiku Eze,Kenya,Kiambu,Maize,28.68,0,2023-10-11
+238,Ngozi Owusu,Nigeria,Oyo,Beans,19.63,1,2025-11-22
+239,Blessing Mensah,Nigeria,Kano,Maize,9.91,0,2023-10-29
+240,Chinedu Osei,Ghana,Greater Accra,Pepper,31.02,0,2025-04-29
+241,Ama Kariuki,Nigeria,Kaduna,Beans,8.63,0,2025-02-06
+242,Amina Boateng,Nigeria,Benue,Cherry Tomato,29.45,0,2023-10-27
+243,Ngozi Ndlovu,Nigeria,Rivers,Pepper,24.51,1,2025-08-18
+244,Samuel Yusuf,Kenya,Nakuru,Cherry Tomato,1.16,1,2023-11-03
+245,Esther Afolabi,Kenya,Kiambu,Cocoa,15.1,0,2024-05-01
+246,Fatima Okafor,Nigeria,Oyo,Rice,14.98,0,2025-07-25
+247,Fatima Owusu,Nigeria,Kano,Coffee,18.99,0,2024-05-10
+248,Blessing Eze,Nigeria,Rivers,Tomato,21.71,1,2025-05-03
+249,Joseph Mensah,Nigeria,Rivers,Cocoa,34.13,1,2025-12-13
+250,Wanjiku Kariuki,Kenya,Kiambu,Cocoa,1.2,0,2023-03-31
+251,Kwame Adeyemi,Ghana,Greater Accra,Sorghum,1.06,0,2024-12-07
+252,Esther Bello,Nigeria,Benue,Coffee,25.86,1,2023-04-01
+253,Otieno Boateng,Ghana,Ashanti,Groundnut,6.54,0,2025-08-09
+254,Mary Ibrahim,Kenya,Nakuru,Maize,2.68,0,2025-07-26
+255,Blessing Wanjiku,Nigeria,Kaduna,Tomato,27.79,0,2024-10-08
+256,Wanjiku Adebayo,Nigeria,Oyo,Cocoa,16.83,1,2024-01-27
+257,Kwame Okafor,Nigeria,Oyo,Groundnut,11.95,1,2025-01-23
+258,Abdul Adebayo,Ghana,Greater Accra,Sorghum,15.67,0,2024-11-25
+259,Kamau Owusu,Nigeria,Rivers,Beans,32.39,0,2023-06-19
+260,Chinedu Eze,Ghana,Greater Accra,Coffee,34.83,1,2024-08-24
+261,Fatima Mensah,Ghana,Ashanti,Beans,23.3,1,2025-05-22
+262,David Abdullahi,Nigeria,Rivers,Beans,15.93,0,2024-12-23
+263,Yaa Adeyemi,Kenya,Kisumu,Groundnut,34.31,0,2023-06-03
+264,Kwame Kariuki,Ghana,Greater Accra,Sorghum,23.94,0,2023-10-20
+265,Joseph Abdullahi,Kenya,Kisumu,Tomato,4.85,1,2025-01-20
+266,Ama Danladi,Ghana,Ashanti,Tomato,21.38,0,2025-01-29
+267,Njeri Mensah,Ghana,Ashanti,Coffee,5.25,1,2024-10-05
+268,Grace Bello,Nigeria,Oyo,Tomato,25.88,1,2025-03-03
+269,Fatima Adeyemi,Kenya,Kiambu,Cassava,24.79,1,2024-08-07
+270,Ibrahim Bello,Kenya,Nakuru,Maize,29.92,1,2025-06-30
+271,Halima Boateng,Nigeria,Kano,Groundnut,12.49,1,2024-08-17
+272,Kemi Ibrahim,Nigeria,Oyo,Sorghum,24.98,0,2023-12-23
+273,Wanjiku Osei,Ghana,Ashanti,Cherry Tomato,34.49,0,2024-04-29
+274,Amina Mwangi,Kenya,Nakuru,Cocoa,20.24,1,2023-09-23
+275,Abdul Mensah,Kenya,Kisumu,Cherry Tomato,11.17,0,2025-09-07
+276,Yaa Eze,Kenya,Kiambu,Coffee,3.04,0,2023-06-01
+277,Njeri Kariuki,Kenya,Nakuru,Beans,4.93,0,2024-01-08
+278,Yaa Kariuki,Nigeria,Rivers,Tomato,29.18,0,2024-09-14
+279,Adaeze Boateng,Nigeria,Rivers,Sorghum,8.28,0,2025-11-28
+280,Kemi Mensah,Nigeria,Oyo,Cassava,7.27,0,2024-07-16
+281,Mary Ndlovu,Nigeria,Rivers,Coffee,18.9,0,2023-12-12
+282,Achieng Kamau,Kenya,Kisumu,Maize,23.23,0,2024-11-22
+283,Ngozi Yusuf,Kenya,Kisumu,Cherry Tomato,2.07,0,2024-06-26
+284,Emeka Danladi,Nigeria,Benue,Yam,21.82,1,2024-08-16
+285,Kamau Osei,Nigeria,Oyo,Groundnut,14.51,1,2023-05-03
+286,Njeri Eze,Nigeria,Rivers,Pepper,16.52,1,2023-10-22
+287,Kemi Boateng,Ghana,Ashanti,Sorghum,34.59,1,2025-03-27
+288,Emeka Mwangi,Nigeria,Rivers,Cocoa,19.88,1,2025-08-13
+289,Tunde Abdullahi,Nigeria,Kano,Rice,5.36,1,2025-02-25
+290,Yaa Osei,Kenya,Kisumu,Maize,28.56,0,2024-10-02
+291,Emeka Ibrahim,Nigeria,Benue,Pepper,34.86,1,2024-09-23
+292,Amina Mensah,Kenya,Nakuru,Yam,17.94,0,2024-03-16
+293,Kwame Okafor,Kenya,Kisumu,Tomato,10.21,0,2025-08-21
+294,Otieno Yusuf,Nigeria,Oyo,Cherry Tomato,15.37,0,2025-01-19
+295,Kwame Okafor,Ghana,Greater Accra,Yam,2.26,0,2025-01-12
+296,Blessing Mensah,Kenya,Kiambu,Yam,17.9,0,2024-07-26
+297,Joseph Afolabi,Kenya,Kisumu,Cherry Tomato,4.94,1,2025-02-03
+298,Otieno Mwangi,Ghana,Ashanti,Maize,7.37,0,2025-10-21
+299,Ngozi Okafor,Nigeria,Kaduna,Maize,25.12,0,2025-11-29
+300,Musa Afolabi,Kenya,Nakuru,Cocoa,5.32,0,2024-10-14
